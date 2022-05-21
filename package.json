@@ -1,0 +1,27 @@
+{
+  "name": "quest",
+  "version": "1.0.0",
+  "description": "lite and simple js test framework",
+  "bin": {
+    "qst": "./bin/qst"
+  },
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarfrajadstreaks/quest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarfrajadstreaks/quest/issues"
+  },
+  "homepage": "https://github.com/sarfrajadstreaks/quest#readme",
+  "dependencies": {
+    "chalk": "^5.0.1"
+  }
+}
